@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Andreas 👋
 
-<!--
-**AndyN0M0/AndyN0M0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into Cybersecurity after 12 years in another profession.
 
-Here are some ideas to get you started:
+I'm focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Blue Team
+🔹 SOC
+🔹 Linux
+🔹 SQL
+🔹 Python
+🔹 Digital Forensics
+🔹 Threat Detection
+
+Current certifications:
+
+✅ Google Cybersecurity Professional Certificate (In Progress)
+✅ TryHackMe SEC1
+
+Current goal:
+
+🎯 Complete Google Cybersecurity
+🎯 Pass SAL1
+🎯 Earn CompTIA Security+
+
+Always learning.
