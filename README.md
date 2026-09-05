@@ -34,7 +34,7 @@ I believe that practical experience, curiosity, and consistency are just as impo
 
 | Status | Goal                                          |
 | :----: | --------------------------------------------- |
-|   🔄   | Google Cybersecurity Professional Certificate |
+|  Done  | Google Cybersecurity Professional Certificate |
 |   🎯   | TryHackMe SAL1                                |
 |   🎯   | CompTIA Security+                             |
 |   🚀   | Build practical cybersecurity projects        |
